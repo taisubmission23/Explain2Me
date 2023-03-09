@@ -45,10 +45,9 @@ Models with the same backbone architecture, training parameters, and training da
 ## Citation
 
 # How To Use
-The model weights and the entire project can be downloaded via [Google Drive](https://drive.google.com/drive/folders/1PR01qyMF10YaIbaob1W_j8x6Zs23a-yc?usp=share_link).
+The model weights and the entire project can be downloaded via [Google Drive](https://drive.google.com/drive/folders/124MVxHG1nVj9dxY0cnnAMiL8UpS9MKJ5?usp=share_link).
 
-## Acknowledgements
-Research presented in this paper was supported by the U.S. Department of Defense (Contract No. W52P1J2093009). The views and conclusions contained in this paper are those of the authors and should not be interpreted as represent- ing the official policies, either expressed or implied, of the U.S. Department of Defense or the U.S. Government. The U.S. Government is authorized to reproduce and dis- tribute reprints for Government purposes, notwithstanding any copyright notation here on.
+
 
 # Resources
 [TorchCAM](https://frgfm.github.io/torch-cam/)
